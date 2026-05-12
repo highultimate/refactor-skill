@@ -10,7 +10,7 @@ no big-bang rewrites.
 
 ## Who it's for
 Developers using Claude in Cursor, Claude.ai projects, 
-or any AI-assisted workflow.
+or any AI-assisted workflow. This is a protocol for AI-assisted solo development, not a team engineering standard.
 
 ## How to use it
 Copy `SKILL.md` content into your Claude project 
