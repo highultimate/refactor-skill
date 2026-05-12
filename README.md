@@ -1,4 +1,4 @@
-# Claude Architectural Refactor Skill
+# Claude Architectural Refactor Skill for Vibe Coders :) 
 
 A reasoning skill for Claude that prevents bad refactors 
 before they start.
@@ -18,5 +18,5 @@ instructions or paste it as context before any
 refactor conversation.
 
 ## Why it exists
-Because AI will happily refactor your entire codebase 
+AI will happily refactor your entire codebase 
 at 2am if you let it. This makes it think first.
