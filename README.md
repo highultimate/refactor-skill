@@ -1,4 +1,4 @@
-# Claude Architectural Refactor Skill for Vibe Coders :) 
+# Claude Architectural Refactor Skill :) 
 
 A reasoning skill for Claude that prevents bad refactors 
 before they start.
